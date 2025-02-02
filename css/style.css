@@ -1,0 +1,144 @@
+.body {
+    margin: 0;
+    padding: 0;
+    background-color: #F9F9F9;
+    height: 2464px;
+    font-family: 'Roboto', sans-serif;
+}
+.head {
+    background-color: #EEEFF1;
+    min-height: 700px;
+}
+.menu {
+    margin-left: 399px;
+    margin-bottom: 0px;
+    height: 27px;
+    font-size: 16px;
+    font-weight: 400px;
+    line-height: 26.25px;
+}
+.homepage {
+    display: inline-block;
+    width: 98px;
+    height: 27px;
+    padding-top: 79px;
+    
+}
+.about {
+    display: inline-block;
+    width: 137px;
+    height: 27px;
+    margin-left: 42px;
+}
+.work {
+    display: inline-block;
+    width: 63px;
+    height: 27px;
+    margin-left: 42px;
+}
+.process {
+    display: inline-block;
+    width: 81px;
+    height: 27px;
+    margin-left: 42px;
+}
+.contacts {
+    display: inline-block;
+    width: 99px;
+    height: 27px;
+    margin-left: 42px;
+}
+.desing {
+    margin-left: 399px;
+    margin-top: 151px;
+    margin-bottom: 0px;
+    width: 541px;
+    height: 45px;
+    font-weight: 500px;
+    font-size: 48px;
+    line-height: 78.75px;
+
+}
+.lorem1 {
+    margin-left: 400px;
+    margin-top: 60px;
+    margin-bottom: 0px;
+    width: 540px;
+    height: 67px;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 26.25px;
+}
+.button {
+    display: inline-block;
+    margin-left: 399px;
+    margin-top: 65px;
+    margin-bottom: 0px;
+    width: 225px;
+    height: 65px;
+    text-align: center;
+    background-color: #34547A;
+    color: #EEEFF1;
+    align-content: center;
+}
+.about2{
+    display: inline-block;
+    text-align: center;
+    align-content: center;
+    margin-left: 690px;
+    font-size: 32px;
+    line-height: 37.5px;
+    margin-top: 112px;
+    
+}
+.lorem2{
+    width: 540px;
+    height: 67px;
+    font-size: 16px;
+    line-height: 26.25px;
+    align-content: center;
+    color: #727272;
+}
+.images {
+    background-color: #34547A;
+    width: 100%;
+    height: 250px;
+    align-content: center;
+    letter-spacing: 49px;
+    margin-top: 100px;
+    padding-left: 409px;
+}
+.how {
+    display: inline-block;
+    text-align: center;
+    align-content: center;
+    margin-left: 690px;
+    font-size: 32px;
+    line-height: 37.5px;
+    margin-top: 100px;
+    
+}
+.lorem3{
+    width: 540px;
+    height: 67px;
+    font-size: 16px;
+    line-height: 26.25px;
+    align-content: center;
+    color: #727272;
+    margin-bottom: 57px;
+}
+.video {
+    display: block;
+    margin-left: 405px;
+    margin-bottom: 100px;
+}
+.footer{
+    display: inline-block;
+    background-color: #34547A;
+    margin-top: 0px;
+    color: #F9F9F9;
+    padding-left: 406px;
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
